@@ -1,4 +1,4 @@
-# Online Shopping Cart
+![Website Icon](assets/icon.png)# Online Shopping Cart
 
 An interactive e-commerce platform where users can browse products, add them to a virtual shopping cart, and manage their orders. This project demonstrates core web development concepts using HTML, CSS, Java, and PHP, along with a MySQL database for data storage and management.
 
